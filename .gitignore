@@ -1,3 +1,5 @@
 tool_test_environment/*
 fine_tuned_qwen3_lora/*
 
+qwen-inference.py
+__pycache__/
